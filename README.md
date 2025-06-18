@@ -74,5 +74,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 - Pre-trained models for gender prediction.
 
 ## Contact
-For any inquiries, please contact [your email address].
+For any inquiries, please contact iapreddy2004@gmail.com
 >>>>>>> 0419d33 (Initial commit: Face Recognition GUI Application)
