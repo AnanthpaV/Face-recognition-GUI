@@ -57,7 +57,6 @@ Face-Recognition-GUI-Application-main
    - Create a dataset.
    - Train a classifier.
    - Perform face detection.
-   - Predict gender.
 
 ## Requirements
 - Python 3.11 or higher
